@@ -1,4 +1,4 @@
 
-## Available Scripts
+## About
 A simple currency converter
 
